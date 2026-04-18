@@ -1,0 +1,206 @@
+PO_Number,Transaction_Type,Supplier,Category,Product_Description,Amount,Date,Cardholder,Notes
+PO-10204,Purchase Order,DuPont Safety,Packaging Materials,Corrugated Boxes," $4,850.00 ",2/20/2024,Linda Nakamura,Normal
+PO-10013,Purchase Order,DuPont Safety,Facility Maintenance,," $16,535.71 ",3/16/2024,Angela Reyes,Normal
+PC-10145,P-Card,Thermo Fisher Scientific,Office Supplies,," $1,517.12 ",2/6/2024,Brian Kowalski,Normal
+PO-10090,Purchase Order,Sterigenics International,Safety Equipment,," $19,188.33 ",4/21/2024,Jennifer Walsh,Normal
+PO-10195,Purchase Order,Steris Corporation,Sterilization Services,ETO Sterilization Run," $17,845.00 ",10/15/2024,James Mitchell,ANOMALY: Identical Amount Same Supplier
+PO-10098,Purchase Order,Ansell Healthcare,Safety Equipment,," $6,611.12 ",7/8/2024,James Mitchell,Normal
+PO-10066,Purchase Order,Fisher Scientific,Calibration Services,Pressure Gauge Cal," $12,427.42 ",5/6/2024,Karen Simmons,Normal
+PO-10030,Purchase Order,Sterigenics International,Travel & Meals,," $17,449.01 ",3/6/2024,Brian Kowalski,Normal
+PO-10069,Purchase Order,Grainger Industrial,Sterilization Services,E-Beam Processing," $6,740.22 ",8/27/2024,Jennifer Walsh,Normal
+PC-10151,P-Card,VWR International,Safety Equipment,, $877.95 ,6/28/2024,Karen Simmons,Normal
+PC-10141,P-Card,VWR International,Safety Equipment,Safety Glasses," $1,990.24 ",8/21/2024,James Mitchell,Normal
+PO-10028,Purchase Order,Kimberley-Clark,Safety Equipment,Hard Hats," $4,053.40 ",7/3/2024,Sarah Connelly,Normal
+PO-10200,Purchase Order,Cardinal Health,Sterilization Services,," $38,500.00 ",8/19/2024,Sarah Connelly,ANOMALY: Price Spike
+PO-10191,Purchase Order,Quick Parts International,Facility Maintenance,," $12,300.00 ",10/5/2024,Linda Nakamura,ANOMALY: Blacklisted Supplier
+PC-10106,P-Card,Thermo Fisher Scientific,Safety Equipment,," $1,717.07 ",3/7/2024,Thomas Brennan,Normal
+PO-10039,Purchase Order,Fastenal Company,Travel & Meals,," $16,653.50 ",10/12/2024,Angela Reyes,Normal
+PO-10004,Purchase Order,Cardinal Health,Cleanroom Gowning,Cleanroom Coveralls," $4,980.41 ",6/13/2024,David Okafor,Normal
+PC-10185,P-Card,Thermo Fisher Scientific,Capital Equipment,," $2,499.00 ",8/8/2024,Brian Kowalski,VIOLATION: Capital Equipment - Requires Capital Approval
+PO-10064,Purchase Order,Ansell Healthcare,Cleanroom Gowning,," $1,580.31 ",10/12/2024,James Mitchell,Normal
+PO-10015,Purchase Order,Nelson Labs,Facility Maintenance,," $17,674.49 ",5/2/2024,James Mitchell,Normal
+PC-10118,P-Card,Grainger Industrial,Safety Equipment,," $1,898.39 ",10/10/2024,Robert Huang,Normal
+PC-10158,P-Card,MSC Industrial,Safety Equipment,," $1,230.11 ",5/3/2024,James Mitchell,Normal
+PC-10164,P-Card,Grainger Industrial,MRO Supplies,Hydraulic Fittings," $2,500.00 ",3/25/2024,Robert Huang,ANOMALY: P-Card Split
+PC-10161,P-Card,Grainger Industrial,MRO Supplies,Hydraulic Fittings," $2,500.00 ",3/4/2024,Robert Huang,ANOMALY: P-Card Split
+PC-10138,P-Card,CDW Corporation,Office Supplies,," $1,786.32 ",5/29/2024,Angela Reyes,Normal
+PC-10125,P-Card,Grainger Industrial,Facility Maintenance,, $560.47 ,9/7/2024,Sarah Connelly,Normal
+PO-10040,Purchase Order,Fisher Scientific,Lab Consumables,," $16,572.88 ",11/27/2024,Karen Simmons,Normal
+PO-10027,Purchase Order,Fastenal Company,Safety Equipment,," $21,946.78 ",12/27/2024,Angela Reyes,Normal
+PC-10184,P-Card,Fisher Scientific,Capital Equipment,Laboratory Balance," $3,200.00 ",5/30/2024,Karen Simmons,VIOLATION: Capital Equipment - Requires Capital Approval
+PO-10088,Purchase Order,Fastenal Company,Facility Maintenance,," $6,739.37 ",12/26/2024,David Okafor,Normal
+PC-10150,P-Card,Thermo Fisher Scientific,Facility Maintenance,, $610.75 ,5/24/2024,Patricia Evans,Normal
+PC-10190,P-Card,Offshore Supply Co.,Safety Equipment,," $1,899.00 ",7/22/2024,Patricia Evans,ANOMALY: Blacklisted Supplier
+PC-10152,P-Card,MSC Industrial,Office Supplies,, $842.46 ,12/26/2024,Thomas Brennan,Normal
+PO-10042,Purchase Order,VWR International,Cleanroom Gowning,," $20,012.55 ",3/21/2024,Linda Nakamura,Normal
+PO-10031,Purchase Order,Steris Corporation,Packaging Materials,," $13,133.51 ",11/15/2024,Brian Kowalski,Normal
+PO-10094,Purchase Order,Ansell Healthcare,Sterilization Services,Gamma Irradiation Service," $14,468.14 ",7/12/2024,Angela Reyes,Normal
+PC-10142,P-Card,Nelson Labs,Travel & Meals,, $68.84 ,12/10/2024,David Okafor,Normal
+PO-10092,Purchase Order,Honeywell Safety,Safety Equipment,," $7,340.95 ",2/13/2024,Brian Kowalski,Normal
+PO-10020,Purchase Order,Fastenal Company,Travel & Meals,," $13,753.39 ",5/27/2024,Michael Torres,Normal
+PC-10101,P-Card,Sigma-Aldrich,MRO Supplies,Lubricant Oil," $1,892.76 ",2/17/2024,James Mitchell,Normal
+PC-10159,P-Card,Grainger Industrial,Facility Maintenance,, $824.55 ,12/1/2024,Brian Kowalski,Normal
+PC-10176,P-Card,Thermo Fisher Scientific,Hazardous Materials,Hydrogen Peroxide 35%, $425.00 ,3/17/2024,Karen Simmons,VIOLATION: Hazardous Material - Requires EHS Approval
+PO-10062,Purchase Order,MSC Industrial,Travel & Meals,Conference Registration," $9,559.05 ",3/3/2024,Sarah Connelly,Normal
+PC-10124,P-Card,Sterigenics International,Facility Maintenance,," $1,744.60 ",3/23/2024,James Mitchell,Normal
+PC-10111,P-Card,Staples Business,Safety Equipment,, $761.94 ,2/17/2024,Sarah Connelly,Normal
+PO-10017,Purchase Order,3M Company,Cleanroom Gowning,Cleanroom Coveralls," $4,457.34 ",3/17/2024,Sarah Connelly,Normal
+PO-10082,Purchase Order,Honeywell Safety,Calibration Services,Torque Wrench Calibration," $24,500.21 ",4/12/2024,David Okafor,Normal
+PO-10060,Purchase Order,Grainger Industrial,Cleanroom Gowning,," $11,526.93 ",12/3/2024,Brian Kowalski,Normal
+PO-10194,Purchase Order,Steris Corporation,Sterilization Services,ETO Sterilization Run," $17,845.00 ",7/15/2024,James Mitchell,ANOMALY: Identical Amount Same Supplier
+PC-10135,P-Card,Steris Corporation,Safety Equipment,, $499.12 ,8/27/2024,Linda Nakamura,Normal
+PC-10147,P-Card,Kimberley-Clark,MRO Supplies,," $1,869.25 ",1/8/2024,Sarah Connelly,Normal
+PO-10045,Purchase Order,Ansell Healthcare,Sterilization Services,," $14,765.73 ",8/9/2024,Michael Torres,Normal
+PO-10063,Purchase Order,Grainger Industrial,Office Supplies,," $6,951.78 ",9/1/2024,Angela Reyes,Normal
+PO-10057,Purchase Order,Cardinal Health,Cleanroom Gowning,," $13,198.65 ",10/26/2024,Linda Nakamura,Normal
+PC-10174,P-Card,Sigma-Aldrich,Chemicals & Solvents,Isopropyl Alcohol 99%, $312.00 ,8/15/2024,Angela Reyes,VIOLATION: Chemical - Must Be on Chemical Inventory
+PC-10177,P-Card,Sigma-Aldrich,Hazardous Materials,, $550.00 ,7/29/2024,Robert Huang,VIOLATION: Hazardous Material - Requires EHS Approval
+PO-10071,Purchase Order,MSC Industrial,Packaging Materials,," $3,070.88 ",3/24/2024,Robert Huang,Normal
+PO-10081,Purchase Order,Medline Industries,Packaging Materials,," $13,288.67 ",8/9/2024,Angela Reyes,Normal
+PC-10103,P-Card,CDW Corporation,Safety Equipment,, $738.83 ,2/1/2024,Linda Nakamura,Normal
+PC-10157,P-Card,3M Company,MRO Supplies,," $1,751.50 ",11/23/2024,Linda Nakamura,Normal
+PC-10154,P-Card,Sterigenics International,MRO Supplies,," $1,157.91 ",4/13/2024,Robert Huang,Normal
+PC-10116,P-Card,CDW Corporation,MRO Supplies,, $512.92 ,5/3/2024,Jennifer Walsh,Normal
+PC-10188,P-Card,3M Company,PPE High Value,Full Face Respirator," $1,850.00 ",10/21/2024,James Mitchell,VIOLATION: High Value PPE - Exceeds P-Card Category Limit
+PC-10107,P-Card,VWR International,MRO Supplies,, $82.94 ,6/27/2024,Thomas Brennan,Normal
+PO-10083,Purchase Order,Fastenal Company,Cleanroom Gowning,," $3,203.59 ",10/8/2024,David Okafor,Normal
+PC-10166,P-Card,Fisher Scientific,Lab Consumables,," $2,499.00 ",6/15/2024,Sarah Connelly,ANOMALY: P-Card Split
+PC-10183,P-Card,Staples Business,IT Hardware & Software,, $299.99 ,11/2/2024,Thomas Brennan,VIOLATION: IT Purchase - Requires IT Department Approval
+PC-10167,P-Card,Fisher Scientific,Lab Consumables,," $2,499.00 ",6/29/2024,Sarah Connelly,ANOMALY: P-Card Split
+PO-10038,Purchase Order,Grainger Industrial,Packaging Materials,," $6,126.32 ",9/5/2024,Jennifer Walsh,Normal
+PC-10115,P-Card,Fisher Scientific,Facility Maintenance,, $100.92 ,8/25/2024,James Mitchell,Normal
+PC-10169,P-Card,MSC Industrial,Safety Equipment,," $2,498.50 ",9/16/2024,Thomas Brennan,ANOMALY: P-Card Split
+PO-10049,Purchase Order,VWR International,Safety Equipment,," $13,024.40 ",8/14/2024,Jennifer Walsh,Normal
+PC-10127,P-Card,Fastenal Company,MRO Supplies,, $172.27 ,8/24/2024,Jennifer Walsh,Normal
+PO-10197,Purchase Order,VWR International,Lab Consumables,," $3,299.99 ",5/8/2024,Jennifer Walsh,ANOMALY: Identical Amount Same Supplier
+PO-10065,Purchase Order,DuPont Safety,Travel & Meals,," $10,866.36 ",2/16/2024,James Mitchell,Normal
+PO-10086,Purchase Order,Cardinal Health,Lab Consumables,Test Tubes," $2,256.65 ",7/31/2024,Sarah Connelly,Normal
+PO-10005,Purchase Order,Cardinal Health,Safety Equipment,Hard Hats," $5,521.92 ",4/8/2024,Jennifer Walsh,Normal
+PC-10119,P-Card,Fastenal Company,Travel & Meals,Team Lunch, $207.15 ,3/21/2024,Karen Simmons,Normal
+PO-10099,Purchase Order,Grainger Industrial,Office Supplies,," $10,321.04 ",9/21/2024,Angela Reyes,Normal
+PO-10051,Purchase Order,Grainger Industrial,Lab Consumables,," $4,080.81 ",8/16/2024,Linda Nakamura,Normal
+PC-10112,P-Card,Dell Technologies,MRO Supplies,, $494.17 ,2/5/2024,Karen Simmons,Normal
+PO-10085,Purchase Order,Honeywell Safety,Office Supplies,," $4,556.05 ",6/3/2024,Robert Huang,Normal
+PC-10102,P-Card,Kimberley-Clark,Facility Maintenance,Lighting Fixtures, $477.75 ,10/7/2024,Michael Torres,Normal
+PC-10108,P-Card,3M Company,Safety Equipment,," $1,301.77 ",12/2/2024,James Mitchell,Normal
+PO-10089,Purchase Order,Fisher Scientific,Lab Consumables,," $1,899.07 ",11/12/2024,Michael Torres,Normal
+PO-10077,Purchase Order,Fisher Scientific,Safety Equipment,," $15,046.06 ",5/6/2024,Brian Kowalski,Normal
+PO-10093,Purchase Order,MSC Industrial,Sterilization Services,," $12,160.44 ",12/19/2024,Thomas Brennan,Normal
+PC-10132,P-Card,Staples Business,Safety Equipment,Hard Hats," $1,072.68 ",11/2/2024,Karen Simmons,Normal
+PO-10193,Purchase Order,Steris Corporation,Sterilization Services,ETO Sterilization Run," $17,845.00 ",4/15/2024,James Mitchell,ANOMALY: Identical Amount Same Supplier
+PO-10046,Purchase Order,Honeywell Safety,Calibration Services,," $21,975.63 ",2/22/2024,David Okafor,Normal
+PC-10137,P-Card,3M Company,Office Supplies,Binders," $1,315.50 ",10/27/2024,James Mitchell,Normal
+PO-10080,Purchase Order,Fisher Scientific,MRO Supplies,," $20,771.86 ",3/18/2024,Brian Kowalski,Normal
+PO-10058,Purchase Order,Honeywell Safety,Travel & Meals,Hotel Stay," $4,539.07 ",10/13/2024,Angela Reyes,Normal
+PC-10175,P-Card,VWR International,Chemicals & Solvents,, $278.50 ,10/3/2024,Patricia Evans,VIOLATION: Chemical - Must Be on Chemical Inventory
+PO-10055,Purchase Order,Steris Corporation,Travel & Meals,Airline Ticket," $3,125.53 ",8/5/2024,Jennifer Walsh,Normal
+PO-10100,Purchase Order,Fastenal Company,Sterilization Services,," $17,338.27 ",10/22/2024,Brian Kowalski,Normal
+PC-10186,P-Card,MSC Industrial,Controlled Tools,Calibrated Torque Wrench, $675.00 ,3/22/2024,David Okafor,VIOLATION: Calibrated Equipment - Must Go Through Procurement
+PO-10091,Purchase Order,Sterigenics International,Packaging Materials,Stretch Film," $7,453.98 ",6/11/2024,James Mitchell,Normal
+PO-10196,Purchase Order,VWR International,Lab Consumables,," $3,299.99 ",2/8/2024,Jennifer Walsh,ANOMALY: Identical Amount Same Supplier
+PC-10172,P-Card,Fisher Scientific,Chemicals & Solvents,Acetone, $189.50 ,4/8/2024,Brian Kowalski,VIOLATION: Chemical - Must Be on Chemical Inventory
+PO-10084,Purchase Order,3M Company,Travel & Meals,," $15,304.28 ",9/15/2024,Linda Nakamura,Normal
+PO-10048,Purchase Order,Fastenal Company,Office Supplies,," $18,917.56 ",1/13/2024,Karen Simmons,Normal
+PC-10173,P-Card,Grainger Industrial,Chemicals & Solvents,Wasp & Hornet Spray, $45.99 ,6/22/2024,David Okafor,VIOLATION: Chemical - Must Be on Chemical Inventory
+PO-10073,Purchase Order,VWR International,Safety Equipment,Ear Protection," $5,960.31 ",5/9/2024,Jennifer Walsh,Normal
+PO-10079,Purchase Order,Steris Corporation,Travel & Meals,Conference Registration," $8,046.63 ",2/26/2024,Robert Huang,Normal
+PC-10144,P-Card,VWR International,Travel & Meals,," $1,887.06 ",6/13/2024,Karen Simmons,Normal
+PC-10149,P-Card,Medline Industries,Travel & Meals,, $945.40 ,2/19/2024,Jennifer Walsh,Normal
+PC-10146,P-Card,Medline Industries,MRO Supplies,, $598.53 ,9/13/2024,Thomas Brennan,Normal
+PO-10026,Purchase Order,Honeywell Safety,Facility Maintenance,," $13,348.21 ",9/15/2024,Brian Kowalski,Normal
+PO-10075,Purchase Order,3M Company,Sterilization Services,," $1,239.67 ",12/26/2024,Angela Reyes,Normal
+PO-10010,Purchase Order,Cardinal Health,Travel & Meals,," $5,869.40 ",8/29/2024,Patricia Evans,Normal
+PO-10001,Purchase Order,Grainger Industrial,Safety Equipment,," $6,392.09 ",2/28/2024,Patricia Evans,Normal
+PC-10122,P-Card,Honeywell Safety,MRO Supplies,Bearings," $1,586.46 ",6/17/2024,David Okafor,Normal
+PO-10036,Purchase Order,Cardinal Health,MRO Supplies,," $2,651.00 ",1/24/2024,Brian Kowalski,Normal
+PO-10002,Purchase Order,Medline Industries,Office Supplies,," $4,064.05 ",11/18/2024,Patricia Evans,Normal
+PO-10095,Purchase Order,Honeywell Safety,Office Supplies,," $14,727.83 ",1/7/2024,Robert Huang,Normal
+PC-10143,P-Card,Honeywell Safety,Facility Maintenance,, $684.33 ,6/30/2024,Sarah Connelly,Normal
+PO-10074,Purchase Order,Cardinal Health,Sterilization Services,E-Beam Processing," $22,597.10 ",9/4/2024,Brian Kowalski,Normal
+PC-10133,P-Card,Dell Technologies,Facility Maintenance,, $503.84 ,5/6/2024,David Okafor,Normal
+PC-10165,P-Card,Fisher Scientific,Lab Consumables,," $2,499.00 ",6/1/2024,Sarah Connelly,ANOMALY: P-Card Split
+PO-10053,Purchase Order,Ansell Healthcare,Lab Consumables,Petri Dishes," $6,770.35 ",3/11/2024,Brian Kowalski,Normal
+PO-10059,Purchase Order,Steris Corporation,Safety Equipment,," $13,862.33 ",2/14/2024,Angela Reyes,Normal
+PC-10128,P-Card,CDW Corporation,Facility Maintenance,, $758.30 ,10/31/2024,Michael Torres,Normal
+PC-10109,P-Card,Staples Business,Office Supplies,Copy Paper," $1,830.27 ",8/29/2024,Thomas Brennan,Normal
+PO-10043,Purchase Order,Cardinal Health,Safety Equipment,," $7,664.64 ",9/9/2024,Jennifer Walsh,Normal
+PC-10160,P-Card,Fisher Scientific,Facility Maintenance,, $954.17 ,10/16/2024,Brian Kowalski,Normal
+PC-10162,P-Card,Grainger Industrial,MRO Supplies,Hydraulic Fittings," $2,500.00 ",3/11/2024,Robert Huang,ANOMALY: P-Card Split
+PC-10140,P-Card,Fastenal Company,Office Supplies,, $244.03 ,9/16/2024,Angela Reyes,Normal
+PO-10198,Purchase Order,VWR International,Lab Consumables,," $3,299.99 ",8/8/2024,Jennifer Walsh,ANOMALY: Identical Amount Same Supplier
+PO-10061,Purchase Order,Sterigenics International,Cleanroom Gowning,," $12,247.82 ",7/15/2024,Thomas Brennan,Normal
+PC-10129,P-Card,Staples Business,Office Supplies,, $909.97 ,12/8/2024,Thomas Brennan,Normal
+PO-10018,Purchase Order,Kimberley-Clark,Cleanroom Gowning,," $19,355.66 ",10/22/2024,Thomas Brennan,Normal
+PO-10033,Purchase Order,Steris Corporation,Sterilization Services,," $18,837.98 ",3/17/2024,Jennifer Walsh,Normal
+PO-10022,Purchase Order,Kimberley-Clark,Lab Consumables,," $13,004.67 ",12/13/2024,Sarah Connelly,Normal
+PO-10011,Purchase Order,Steris Corporation,Calibration Services,," $1,779.70 ",11/19/2024,James Mitchell,Normal
+PO-10204,Purchase Order,DuPont Safety,Packaging Materials,Corrugated Boxes," $4,850.00 ",2/23/2024,Linda Nakamura,ANOMALY: Duplicate PO
+PO-10014,Purchase Order,DuPont Safety,Sterilization Services,E-Beam Processing," $22,923.86 ",7/31/2024,Jennifer Walsh,Normal
+PO-10199,Purchase Order,Medline Industries,Cleanroom Gowning,Cleanroom Coveralls," $42,000.00 ",5/14/2024,Michael Torres,ANOMALY: Price Spike
+PC-10114,P-Card,Ansell Healthcare,MRO Supplies,," $1,937.92 ",2/28/2024,Jennifer Walsh,Normal
+PO-10070,Purchase Order,Fastenal Company,Safety Equipment,Hard Hats," $2,847.98 ",8/27/2024,Thomas Brennan,Normal
+PO-10068,Purchase Order,MSC Industrial,Calibration Services,Torque Wrench Calibration," $4,217.04 ",1/16/2024,David Okafor,Normal
+PC-10136,P-Card,Kimberley-Clark,Office Supplies,," $1,258.55 ",10/31/2024,Robert Huang,Normal
+PC-10187,P-Card,Honeywell Safety,PPE High Value,Powered Air Purifying Respirator," $2,200.00 ",6/5/2024,Angela Reyes,VIOLATION: High Value PPE - Exceeds P-Card Category Limit
+PO-10047,Purchase Order,Grainger Industrial,Office Supplies,Pens & Pencils," $12,508.48 ",7/14/2024,Jennifer Walsh,Normal
+PC-10182,P-Card,CDW Corporation,IT Hardware & Software,Software License, $450.00 ,7/14/2024,Linda Nakamura,VIOLATION: IT Purchase - Requires IT Department Approval
+PO-10056,Purchase Order,Honeywell Safety,Sterilization Services,," $12,421.04 ",5/22/2024,Linda Nakamura,Normal
+PO-10023,Purchase Order,Sterigenics International,MRO Supplies,," $9,915.41 ",8/23/2024,Brian Kowalski,Normal
+PO-10006,Purchase Order,Honeywell Safety,Cleanroom Gowning,Cleanroom Coveralls," $22,578.22 ",10/31/2024,Thomas Brennan,Normal
+PO-10034,Purchase Order,DuPont Safety,Office Supplies,Copy Paper," $11,031.63 ",2/26/2024,Sarah Connelly,Normal
+PC-10130,P-Card,CDW Corporation,Travel & Meals,, $901.73 ,11/10/2024,Robert Huang,Normal
+PO-10021,Purchase Order,Medline Industries,Sterilization Services,E-Beam Processing," $2,233.38 ",1/10/2024,Jennifer Walsh,Normal
+PC-10153,P-Card,Sigma-Aldrich,Facility Maintenance,, $213.95 ,6/19/2024,Linda Nakamura,Normal
+PO-10087,Purchase Order,Ansell Healthcare,MRO Supplies,," $6,191.17 ",8/20/2024,Thomas Brennan,Normal
+PO-10019,Purchase Order,Cardinal Health,Facility Maintenance,," $15,157.48 ",2/22/2024,Michael Torres,Normal
+PO-10037,Purchase Order,Cardinal Health,Calibration Services,," $2,252.85 ",9/3/2024,Angela Reyes,Normal
+PC-10148,P-Card,Fastenal Company,MRO Supplies,," $1,867.74 ",12/13/2024,James Mitchell,Normal
+PO-10024,Purchase Order,Fisher Scientific,Calibration Services,," $10,988.73 ",5/8/2024,Brian Kowalski,Normal
+PO-10032,Purchase Order,Ansell Healthcare,Lab Consumables,," $7,860.41 ",7/3/2024,Angela Reyes,Normal
+PC-10179,P-Card,Fastenal Company,Flammable Materials,Flammable Adhesive, $134.50 ,9/18/2024,Sarah Connelly,VIOLATION: Flammable Material - Requires Safety Review
+PC-10155,P-Card,Grainger Industrial,MRO Supplies,," $1,308.82 ",12/30/2024,Sarah Connelly,Normal
+PC-10203,P-Card,Ansell Healthcare,Safety Equipment,," $2,497.50 ",9/25/2024,Robert Huang,ANOMALY: Near P-Card Threshold
+PC-10117,P-Card,DuPont Safety,Travel & Meals,, $260.29 ,1/18/2024,Linda Nakamura,Normal
+PO-10097,Purchase Order,Sterigenics International,Safety Equipment,Safety Glasses," $24,997.41 ",9/29/2024,James Mitchell,Normal
+PC-10201,P-Card,3M Company,Safety Equipment,," $2,499.99 ",3/7/2024,Robert Huang,ANOMALY: Near P-Card Threshold
+PO-10052,Purchase Order,Nelson Labs,MRO Supplies,Drive Belts," $12,573.90 ",5/30/2024,James Mitchell,Normal
+PO-10078,Purchase Order,Kimberley-Clark,Safety Equipment,Hard Hats," $3,062.23 ",12/7/2024,David Okafor,Normal
+PO-10016,Purchase Order,Sterigenics International,Facility Maintenance,Lighting Fixtures," $24,374.26 ",2/22/2024,David Okafor,Normal
+PO-10044,Purchase Order,MSC Industrial,Lab Consumables,Test Tubes," $17,203.21 ",5/22/2024,Karen Simmons,Normal
+PC-10180,P-Card,Sigma-Aldrich,Controlled Substances,Ethanol 200 Proof, $890.00 ,2/28/2024,Jennifer Walsh,VIOLATION: Controlled Substance - Requires DEA Authorization
+PC-10123,P-Card,Sterigenics International,MRO Supplies,Bearings," $1,536.74 ",1/1/2024,Karen Simmons,Normal
+PO-10054,Purchase Order,MSC Industrial,Sterilization Services,Gamma Irradiation Service," $2,970.46 ",11/20/2024,Karen Simmons,Normal
+PO-10041,Purchase Order,Grainger Industrial,Packaging Materials,," $11,018.34 ",9/14/2024,Brian Kowalski,Normal
+PO-10192,Purchase Order,Steris Corporation,Sterilization Services,ETO Sterilization Run," $17,845.00 ",1/15/2024,James Mitchell,ANOMALY: Identical Amount Same Supplier
+PC-10163,P-Card,Grainger Industrial,MRO Supplies,Hydraulic Fittings," $2,500.00 ",3/18/2024,Robert Huang,ANOMALY: P-Card Split
+PC-10134,P-Card,Dell Technologies,Travel & Meals,Airline Ticket, $220.88 ,3/24/2024,Karen Simmons,Normal
+PC-10121,P-Card,Honeywell Safety,Facility Maintenance,, $249.88 ,10/28/2024,Robert Huang,Normal
+PO-10035,Purchase Order,Steris Corporation,MRO Supplies,," $20,280.91 ",11/2/2024,Brian Kowalski,Normal
+PO-10029,Purchase Order,Medline Industries,Travel & Meals,," $15,325.44 ",10/23/2024,Thomas Brennan,Normal
+PO-10009,Purchase Order,Sterigenics International,Office Supplies,," $23,452.89 ",1/29/2024,Linda Nakamura,Normal
+PO-10189,Purchase Order,XYZ Global Trading LLC,MRO Supplies,," $15,500.00 ",4/18/2024,David Okafor,ANOMALY: Blacklisted Supplier
+PC-10120,P-Card,Sigma-Aldrich,Facility Maintenance,, $155.73 ,1/19/2024,Michael Torres,Normal
+PO-10007,Purchase Order,Honeywell Safety,Cleanroom Gowning,," $21,318.74 ",2/18/2024,Linda Nakamura,Normal
+PC-10126,P-Card,CDW Corporation,Office Supplies,," $1,371.26 ",8/26/2024,Robert Huang,Normal
+PC-10202,P-Card,Honeywell Safety,Safety Equipment,," $2,498.00 ",6/12/2024,Robert Huang,ANOMALY: Near P-Card Threshold
+PC-10156,P-Card,Kimberley-Clark,Facility Maintenance,HVAC Filter Replacement, $711.91 ,4/25/2024,David Okafor,Normal
+PC-10139,P-Card,Staples Business,Safety Equipment,Hard Hats, $883.55 ,2/4/2024,Brian Kowalski,Normal
+PC-10181,P-Card,Dell Technologies,IT Hardware & Software,Laptop Computer," $1,899.00 ",4/25/2024,Michael Torres,VIOLATION: IT Purchase - Requires IT Department Approval
+PC-10171,P-Card,MSC Industrial,Safety Equipment,," $2,498.50 ",10/14/2024,Thomas Brennan,ANOMALY: P-Card Split
+PO-10008,Purchase Order,Ansell Healthcare,Lab Consumables,," $24,344.52 ",5/19/2024,Thomas Brennan,Normal
+PC-10131,P-Card,Thermo Fisher Scientific,Safety Equipment,, $680.25 ,5/22/2024,Jennifer Walsh,Normal
+PC-10178,P-Card,Grainger Industrial,Flammable Materials,Paint Thinner, $89.99 ,5/11/2024,James Mitchell,VIOLATION: Flammable Material - Requires Safety Review
+PO-10012,Purchase Order,Sterigenics International,Calibration Services,," $24,647.87 ",10/15/2024,Michael Torres,Normal
+PC-10105,P-Card,Dell Technologies,MRO Supplies,," $1,456.45 ",3/10/2024,Karen Simmons,Normal
+PC-10170,P-Card,MSC Industrial,Safety Equipment,," $2,498.50 ",9/30/2024,Thomas Brennan,ANOMALY: P-Card Split
+PC-10168,P-Card,MSC Industrial,Safety Equipment,," $2,498.50 ",9/2/2024,Thomas Brennan,ANOMALY: P-Card Split
+PC-10110,P-Card,Grainger Industrial,Facility Maintenance,, $583.52 ,1/31/2024,Jennifer Walsh,Normal
+PO-10072,Purchase Order,Honeywell Safety,Lab Consumables,Test Tubes," $24,079.84 ",9/24/2024,Linda Nakamura,Normal
+PC-10104,P-Card,3M Company,Office Supplies,, $415.45 ,10/26/2024,David Okafor,Normal
+PO-10096,Purchase Order,Steris Corporation,Facility Maintenance,," $24,110.49 ",7/25/2024,David Okafor,Normal
+PO-10050,Purchase Order,Medline Industries,Sterilization Services,E-Beam Processing," $10,013.00 ",7/10/2024,Sarah Connelly,Normal
+PO-10067,Purchase Order,Kimberley-Clark,Lab Consumables,Centrifuge Tubes," $12,473.72 ",10/22/2024,Linda Nakamura,Normal
+PO-10003,Purchase Order,DuPont Safety,Sterilization Services,," $1,194.61 ",9/11/2024,Michael Torres,Normal
+PC-10113,P-Card,Fisher Scientific,Travel & Meals,Team Lunch, $540.98 ,9/11/2024,Michael Torres,Normal
+PO-10076,Purchase Order,Fisher Scientific,Calibration Services,," $3,672.61 ",6/7/2024,David Okafor,Normal
+PO-10025,Purchase Order,DuPont Safety,Lab Consumables,," $8,425.10 ",4/9/2024,Thomas Brennan,Normal
